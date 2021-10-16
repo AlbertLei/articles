@@ -135,6 +135,6 @@ AB
 
 One should use the custom abbreviation only if she cites Alice and Bob (2020) more than 10 times in a paragraph.
 
-(2) Use `\citeauthor` and `\citeyear` for author names and year. I have never use it and instead simply typed the author names and year.  
+(2) Use `\citeauthor` and `\citeyear` for author names and year. I usually avoided using it and simply typed the author names and year.  
 
 (3) Here is a [detailed manual](http://merkel.texture.rocks/Latex/natbib.php?lang=en) for natbib. 

@@ -110,7 +110,8 @@ The result is:
 (See, e.g., Alice and Bob, 2020; Cindy and Dave, 2020)
 ```
 
-There is also `\citealt` which I never use.
+There is also `\citealt` producing `Alice and Bob 2020; Cindy and Dave 2020`.
+I have never used it.
 
 ## Other
 
